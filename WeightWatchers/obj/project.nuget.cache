@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtJq5mQNSkBJkN1eh9TnSuhIobvyqREgLUpw/TL/VCQ0B0AfJocDRLwYmkyvIwWAzLtsC5Pj3hA2wVNuNLpbwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RLemberger\\Documents\\Brix\\Weight Watchers\\WeightWatchers\\WeightWatchers\\WeightWatchers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RLemberger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
